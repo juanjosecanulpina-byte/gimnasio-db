@@ -1,0 +1,15 @@
+# Archivos generados por Maven / Java
+target/
+*.class
+*.jar
+*.log
+
+# Editores y sistema
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Credenciales locales
+.env
